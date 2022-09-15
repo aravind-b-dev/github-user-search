@@ -25,3 +25,33 @@ Sceeen Video
 
 https://user-images.githubusercontent.com/73890321/190369983-efcbaa24-201b-4345-b42e-dbb291afb67f.mp4
 
+--------------------------------------------
+
+Steps that i followed 
+
+Flutter version - 2.5.0
+
+App constructed this project using Provider State management. 
+provider: ^6.0.2
+
+uses http request to access and use the rest api data
+http: ^0.13.5
+
+url_launcher is used to open repository in chrome tab
+url_launcher: ^6.0.9
+
+to handle no internet connection connectivity_plus is used
+connectivity_plus: ^2.2.0
+
+---------------------------------------------
+
+App work flow
+
+After running the app, user have to enter the username on a textfield and click on the search button. After submitting user will redirected into two tabs. Onr tab will contain Username, User profile picture, bio and total no of respositories. And the tab contain reposiotry details. Also provide a redirect link to the github repo.
+
+
+
+
+
+
+
