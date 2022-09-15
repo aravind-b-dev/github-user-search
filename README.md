@@ -1,16 +1,22 @@
-# skyislimit
+# GITHUB API INTEGRATION
 
-A new Flutter project.
+Create an android application which uses github api, the android app should have an interface in
+which the user can search for username. The result page should show 2 tabs, i.e. profile and
+repositories
 
-## Getting Started
+1. Profile Tab
+   - Show profile image
+   - Brief summary of searched user
+   - No of repositories
+2. Repository Tab
+   - Should show list of all repositories
+   - Show have a filter for repository filtering
+   - Upon clicking the repository, the repo should open in a custom chrome tab
 
-This project is a starting point for a Flutter application.
+Screen Shots
 
-A few resources to get you started if this is your first Flutter project:
+![landing](https://user-images.githubusercontent.com/73890321/190368431-566eadef-a800-4ac3-a2ad-523dcc651f98.jpg)
+![profiletab](https://user-images.githubusercontent.com/73890321/190368846-ad17bc5a-8d59-4198-b2e4-8d9b584ffbf7.jpg)
+![repotab](https://user-images.githubusercontent.com/73890321/190368886-02c79ad9-32b2-45cb-85c0-22917299d315.jpg)
+![nointernet](https://user-images.githubusercontent.com/73890321/190368943-05a47c50-eec2-41f0-a67e-17a6c6976ea7.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
