@@ -51,6 +51,8 @@ After running the app, user have to enter the username on a textfield and click 
 
 
 
+app-release.apk file included
+assets/apk/app-release.apk
 
 
 
